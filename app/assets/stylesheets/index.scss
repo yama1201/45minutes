@@ -1,0 +1,42 @@
+.top-container{
+    height:250px;
+    background-color: rgba(4, 254, 117, 0.154);
+    text-align: center;
+    color: rgb(0, 250, 250);
+}
+
+.top-container h1{
+    padding-top: 70px;
+    font-size: 70px;
+}
+
+.prof{
+    margin-left: 200px;
+    transform: skewX(10deg);
+    text-decoration:underline;
+}
+
+ul{
+    display: flex;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+li{
+    width: 33.33333333%;
+    text-align: center;
+    list-style: none;
+    height:200px;
+}
+
+.circle{
+    background-color: rgba(255, 0, 0, 0.500);
+}
+
+.hobby{
+    background-color: rgba(255, 255, 0, 0.500);
+}
+
+.recent{
+    background-color: rgba(0, 0, 255, 0.500);
+}
